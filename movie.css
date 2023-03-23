@@ -1,0 +1,73 @@
+body{
+    margin: 0;
+    background-image: url("./images/movie2.jpeg");
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+}
+.row{
+    width: 76%;
+    height: 1016px;
+     /* background-color: antiquewhite;  */
+    position: relative;
+    left: 200px;
+    top: -112px;
+    /* background-image: url("./images/img.jpeg");
+    background-size: cover; */
+}
+.col{
+    height: 1210px;
+    width: 614px;
+    border: black ;
+    position: absolute;
+    top: 200px;
+    border: white 2px solid;
+}
+ .col-1{
+    background-color:black;
+    left: 23px;
+    
+    
+}
+
+.col-2{
+    background-color: black;
+    left: 654px;
+    
+    
+}
+.col-3{
+    background-color:black;
+    left:1286px;
+    
+}
+img{
+    margin-top: 10px;
+    margin-left: 111px;
+    width: 69%;
+    height: 585px;
+}
+h2{
+    color: brown;
+    font-size: 62px;
+    text-align: center;
+}
+p{
+    color: azure;
+    padding: 20px;
+    font-size: 24px;
+}
+button{
+    text-align: center;
+    background-color: brown;
+    color: aliceblue;
+    padding: 15px;
+    margin-left: 246px;
+    margin-top: 6px;
+    
+}
+
+/* movie gallery
+image
+name
+description
+rating box inside the div  */
